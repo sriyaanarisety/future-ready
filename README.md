@@ -1,5 +1,7 @@
 # future-ready
-
+Health care is the improvement of health via the prevention, diagnosis, treatment, amelioration, or cure of disease, illness, injury, and other physical and mental impairments in people. 
+Health care is delivered by health professionals and allied health fields.
+A health system consists of all organizations, people, and actions whose primary intent is to promote, restore, or maintain health. This includes efforts to influence determinants of health as well as more direct health-improving activities.
 
 
 
